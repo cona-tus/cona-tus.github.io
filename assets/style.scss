@@ -480,7 +480,7 @@ body:after {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
     'Segoe UI Symbol';
-  text-align: center;
+  text-align: start;
   font-weight: bold;
   font-kerning: auto;
   font-feature-settings: 'kern', 'liga', 'dlig', 'hlig', 'cswh';
@@ -506,7 +506,7 @@ body:after {
 
 .post_date {
   font-size: 14px;
-  text-align: center;
+  text-align: start;
   color: #939aa1;
 }
 
