@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Network 네트워크] 인터넷은 어떻게 동작하나요? IP(Internet Protocol)와 패킷(Packet)에 대해 알아봅시다
+title: Network | 인터넷은 어떻게 동작하나요? IP(Internet Protocol)와 패킷(Packet)에 대해 알아봅시다
+thumbnail-img: /images/network-thumb.jpg
 categories: [network]
 ---
 
@@ -102,9 +103,9 @@ categories: [network]
 
 - [모든 개발자를 위한 HTTP 웹 기본 지식](https://inf.run/YWJd '김영한')
 - [인터넷은 어떻게 동작하는가?](https://developer.mozilla.org/ko/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work 'mdn')
-- [너와 나의 연결고리, 인터넷에 대하여 | how does internet work](https://another-light.tistory.com/57 '송하명')
+- [너와 나의 연결고리, 인터넷에 대하여 how does internet work](https://another-light.tistory.com/57 '송하명')
 - [인터넷이란?](https://www.cloudflare.com/ko-kr/learning/network-layer/how-does-the-internet-work/ 'Cloudflare')
-- [패킷이란? | 네트워크 패킷의 정의](https://www.cloudflare.com/ko-kr/learning/network-layer/what-is-a-packet/ 'Cloudflare')
+- [패킷이란? 네트워크 패킷의 정의](https://www.cloudflare.com/ko-kr/learning/network-layer/what-is-a-packet/ 'Cloudflare')
 - [Types of Internet Protocols](https://www.geeksforgeeks.org/types-of-internet-protocols/ 'kumarankit4685')
 - [What is a Data Packet?](https://www.techslang.com/definition/what-is-a-data-packet/ 'techslang')
 - [What Is a Network Packet?](https://www.liveaction.com/blog/network-packet/ 'liveaction')
